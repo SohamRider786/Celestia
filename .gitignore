@@ -1,0 +1,16 @@
+.vscode/
+Photos/
+__pycache__/
+.idea/
+frontend.ui.ui
+env_var.py
+.env
+config.py
+chatbot.py
+jokes.py
+location.py
+news.py
+openapitest.py
+send_sms.py
+slowprint.py
+weather.py
